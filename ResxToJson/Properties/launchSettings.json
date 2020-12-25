@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResxToJson": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Schneider_FDT2\\Data for FDT3 Offer\\CommDTMs\\ModbusSLCommDTM\\ModbusSLCommDTM\\ModbusSLCommDTM.Dtm.Gui\\Resources\""
+    }
+  }
+}
